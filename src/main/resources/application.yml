@@ -1,0 +1,13 @@
+proxy:
+  host:
+  port:
+  # HTTP | SOCKS4 | SOCKS5 | NO_PROXY
+  type:
+
+bot:
+  username:
+  token:
+
+spring:
+  datasource:
+    url: jdbc:h2:mem:quizBotDb
